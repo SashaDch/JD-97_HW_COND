@@ -10,8 +10,6 @@ public class Main {
         int days;
         int score = 0;
 
-        //System.out.println("Количество дней " + );
-
         while (true) {
             System.out.println("Введите год: ");
             year = scanner.nextInt();
